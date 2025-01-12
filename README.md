@@ -1,4 +1,5 @@
-Beyond_Limits
+_Beyond Limits_
+
 Proposal Summary: Beyond Limits - Empowering Specially-Abled Students through Innovative Education
 
 "Beyond Limits" is an AI-powered app that aims to transform education for specially-abled students by providing personalized learning experiences and adaptive support. The app addresses key challenges, such as lack of personalized learning, inaccessible materials, limited cognitive and emotional support, and social exclusion.
